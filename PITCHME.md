@@ -78,7 +78,7 @@ iris.columns
 ##### Exercise 3
 
 
----?
+---?image=src/bg-05.png&size=contain
 ##### Thank you and see you on the next one!
 
 ---
