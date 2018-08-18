@@ -25,7 +25,7 @@ pip install seaborn # plotting object
 
 ---
 
-#### Visualization: Seeing is believing
+#### Visualization: a first plot
 
 ```
 # boot up python interpreter (interactive programming)
