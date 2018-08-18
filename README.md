@@ -4,10 +4,10 @@
 
 **In this course you will learn:**
 
-	* Python (basic)
-	* Pandas (basic)
-	* Matplotlib (basic)
-	* Seaborn (basic)
+* Python (basic)
+* Pandas (basic)
+* Matplotlib (basic)
+* Seaborn (basic)
 
 **Setup**
 
