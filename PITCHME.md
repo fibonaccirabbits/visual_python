@@ -6,8 +6,11 @@ Hands on session
 
 ### Install libraries
 
+On your terminal do: 
 ```
-pip install stuff
+pip install pandas
+pip install matplotlib
+pip install seaborn
 ```
 
 ---
