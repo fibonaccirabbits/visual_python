@@ -3,8 +3,13 @@
 Hands on session
 
 ---
+#### Lingos
+Some geek speaks for today:
+- Data structure: A  data structure is a data organization, management and storage format that enables efficient access and modification
 
-### Install libraries
+---
+
+#### Install libraries
 
 On your terminal do: 
 ```
