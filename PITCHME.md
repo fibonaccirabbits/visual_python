@@ -3,8 +3,7 @@
 Hands on session
 
 ---
-#### 
-Geek speaks for today:
+####  Geek speak for today
 - **Data structure:**  a format that enables efficient access and modification.
 - **Object:** a combination of variables, functions, and data structures.
 - **Package manager:** a tool that manages packages (programs).
