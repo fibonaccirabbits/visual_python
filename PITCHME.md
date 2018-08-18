@@ -50,6 +50,9 @@ plt.show()
 ##### Exercise 1
 
 ```
+# get to know your data
+iris.info()
+
 # show available columns
 iris.columns
 
