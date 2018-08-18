@@ -77,4 +77,8 @@ iris.columns
 ---
 ##### Exercise 3
 
+
+---?
+##### Thank you and see you on the next one!
+
 ---
