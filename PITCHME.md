@@ -13,7 +13,7 @@ Geek speaks for today:
 
 #### Python and libraries
 
-Downoad and install [Anaconda](https://www.anaconda.com/download/)
+Downoad and install a package manager: [Anaconda](https://www.anaconda.com/download/)
 
 
 On your terminal do: 
@@ -25,7 +25,7 @@ pip install seaborn # plotting object
 
 ---
 
-#### Toy data
+#### Visualization: toy data
 
 ```
 # boot up python interpreter (interactive programming)
