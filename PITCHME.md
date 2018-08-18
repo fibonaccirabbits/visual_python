@@ -54,9 +54,9 @@ plt.show()
 # show available columns
 iris.columns
 
-# Plot the distribution for each column in the data set
-# (10 minutes)
 ```
+- Plot the distribution for each column in the data set
+- (10 minutes)
 
 ---
 
