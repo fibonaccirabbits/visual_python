@@ -2,7 +2,7 @@
 
 Hands on session
 
-----
+---
 
 ### Install libraries
 
