@@ -1,4 +1,4 @@
----?image=src/bg-05.png
+---?image=src/bg-05.png&size=contain
 # Data is Beauty
 
 Hands on session
