@@ -25,9 +25,16 @@ pip install seaborn # plot object
 #### Toy data
 
 ```
-vim iris.py # creates a file named iris.py
-import pandas as pd # imports pandas
-import matplotlib.pyplot as plt # imports pyplot
-import seaborn as sns # imports seaborn
+# create a file named iris.py
+vim iris.py 
+
+# import libraries (modules)
+import pandas as pd 
+import matplotlib.pyplot as plt 
+import seaborn as sns 
+
+# load Iris dataset
+sns.load_dataset('iris')
+
 ```
 
