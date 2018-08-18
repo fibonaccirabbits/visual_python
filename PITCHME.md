@@ -36,14 +36,27 @@ import pandas as pd
 import matplotlib.pyplot as plt 
 import seaborn as sns 
 
-# load Iris dataset
+# load the Iris dataset
 iris = sns.load_dataset('iris')
 
-# plot distribution of petal lenght
+# plot the distribution of petal length
 sns.countplot(iris['petal_length'], data=iris)
 plt.show()
 
 ```
 
 - Congrats! You have just created your first plot with Python.
+
+---
+##### Exercise
+
+```
+# show available columns
+iris.columns
+
+# Plot the distribution for each column in the data set
+# (10 minutes)
+```
+
+---
 
