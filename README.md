@@ -1,4 +1,4 @@
-<img src='src/micro_vis.png' widht=500>
+<img src='src/micro_vis-04.png' widht=500>
 
 # Welcome to Data is Beauty--a microcourse on visualization with Python
 
