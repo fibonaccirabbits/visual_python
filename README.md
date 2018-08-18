@@ -9,7 +9,8 @@
 * Matplotlib (basic)
 * Seaborn (basic)
 
-**Setup**
+**Operating systems**
 
 * If you are rocking linux/Mac OS you are all set 
 * Windows users please install the [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
+<img src='src/mlvl.jpg' width=250>
