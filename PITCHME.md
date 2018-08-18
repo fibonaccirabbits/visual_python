@@ -9,7 +9,6 @@ Geek speaks for today:
 - **Object:** a combination of variables, functions, and data structures.
 
 
-*2 minutes*
 ---
 
 #### Install libraries
@@ -21,9 +20,14 @@ pip install matplotlib # plot object
 pip install seaborn # plot object
 ```
 
-*5 minutes*
 ---
 
-- some 
-- test 
-- list
+#### Toy data
+
+```
+vim iris.py # creates a file named iris.py
+import pandas as pd # imports pandas
+import matplotlib.pyplot as plt # imports pyplot
+import seaborn as sns # imports seaborn
+```
+
