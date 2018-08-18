@@ -66,5 +66,15 @@ iris.columns
 
 - Shape
 - Color
----
 
+---
+##### Exercise 2
+
+---
+##### Collaboration and sharing
+
+
+---
+##### Exercise 3
+
+---
