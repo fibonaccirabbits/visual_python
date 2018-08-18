@@ -48,7 +48,7 @@ plt.show()
 - Congrats! You have just created your first plot with Python.
 
 ---
-##### Exercise
+##### Exercise 1
 
 ```
 # show available columns
