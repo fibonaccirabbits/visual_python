@@ -1,8 +1,8 @@
+---?image=src/bg-05.png
 # Data is Beauty
 
 Hands on session
 
-<img src='src/micro_vis-04.png' width=100>
 ---
 ####  Geek speak for today
 - **Data structure:**  a format that enables efficient access and modification.
