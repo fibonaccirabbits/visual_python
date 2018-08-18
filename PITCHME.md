@@ -7,11 +7,13 @@ Hands on session
 Geek speaks for today:
 - **Data structure:**  a format that enables efficient access and modification.
 - **Object:** a combination of variables, functions, and data structures.
-
+- **Package manager:** a tool that manages packages (programs).
 
 ---
 
-#### Install libraries
+#### Python and libraries
+
+Downoad and install [Anaconda](https://www.anaconda.com/download/)
 
 On your terminal do: 
 ```
@@ -25,8 +27,8 @@ pip install seaborn # plot object
 #### Toy data
 
 ```
-# create a file named iris.py
-vim iris.py 
+# boot up python interpreter (interactive programming)
+python
 
 # import libraries (modules)
 import pandas as pd 
