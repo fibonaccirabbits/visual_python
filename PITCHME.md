@@ -58,8 +58,13 @@ iris.info()
 iris.columns
 
 ```
-- Plot the distribution for each column in the data set
+- Plot the distribution for each column in the dataset
 - (10 minutes)
 
+---
+##### Asthetic: make your plot stands out
+
+- Shape
+- Color
 ---
 
