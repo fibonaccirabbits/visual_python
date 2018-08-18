@@ -3,7 +3,7 @@
 Hands on session
 
 ---
-#### Lingos
+#### 
 Geek speaks for today:
 - **Data structure:**  a format that enables efficient access and modification.
 - **Object:** a combination of variables, functions, and data structures.
