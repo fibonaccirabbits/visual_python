@@ -9,14 +9,16 @@
 * Matplotlib (basic)
 * Seaborn (basic)
 
-**Operating systems**
+**OS setup**
 
 * If you are rocking linux/Mac OS you are all set 
 * Windows users please install the [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
 <br><img src='src/mlvl.jpg' width=250>
 
+
 That's it! fire up your terminal and let's hit the hands on session.
 
 Have fun during the course!
-Your SRC team
+
+**Your SRC team**
 
