@@ -15,6 +15,7 @@ Geek speaks for today:
 
 Downoad and install [Anaconda](https://www.anaconda.com/download/)
 
+
 On your terminal do: 
 ```
 pip install pandas # real nice data structures
@@ -36,7 +37,12 @@ import matplotlib.pyplot as plt
 import seaborn as sns 
 
 # load Iris dataset
-sns.load_dataset('iris')
+iris = sns.load_dataset('iris')
+
+# plot distribution of petal lenght
+sns.countplot(iris['petal_length'], data=iris)
+plt.show()
 
 ```
+Congrats! You have just created your first plot with Python.
 
