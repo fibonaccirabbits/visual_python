@@ -16,7 +16,7 @@
 <br><img src='src/mlvl.jpg' width=250>
 
 
-That's it! fire up your terminal and let's hit the [**hands on session**](https://github.com/fibonaccirabbits/visual_python).
+That's it! fire up your terminal and let's hit the [**hands on session**](https://gitpitch.com/fibonaccirabbits/visual_python).
 
 Have fun during the course!
 
