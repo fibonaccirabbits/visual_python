@@ -19,8 +19,8 @@ Downoad and install [Anaconda](https://www.anaconda.com/download/)
 On your terminal do: 
 ```
 pip install pandas # real nice data structures
-pip install matplotlib # plot object
-pip install seaborn # plot object
+pip install matplotlib # plotting object
+pip install seaborn # plotting object
 ```
 
 ---
