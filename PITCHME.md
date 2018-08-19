@@ -10,15 +10,13 @@ Hands on session
 - **Package manager:** a tool that manages packages (programs).
 
 ---
-@snap[north-west]
-#### Python and libraries
 
+#### Python and libraries
 Downoad and install a package manager: [Anaconda](https://www.anaconda.com/download/)
 
 
 
 On your terminal do:
-@snapend
 ```
 pip install pandas # real nice data structures
 pip install matplotlib # plotting object
