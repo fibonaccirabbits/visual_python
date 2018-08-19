@@ -84,7 +84,7 @@ We explored:
 * Making that visual engaging and infromative via shapes and colors
 * Documenting outputs for seamless collaboration and sharing
 
----?image=src/bg-05.png&size=contain
-##### Thank you and see you on the next one!
+---?image=src/thanks-06.png&size=contain
+See you on the next one!
 
 
