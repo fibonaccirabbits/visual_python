@@ -16,7 +16,7 @@ Hands on session
 Downoad and install a package manager: [Anaconda](https://www.anaconda.com/download/)
 
 
-On your terminal do: 
+<div style='text align: right'> On your terminal do: </div> 
 ```
 pip install pandas # real nice data structures
 pip install matplotlib # plotting object
@@ -85,6 +85,6 @@ We explored:
 * Documenting outputs for seamless collaboration and sharing
 
 ---?image=src/thanks-06.png&size=contain
-See you on the next one!
+
 
 
