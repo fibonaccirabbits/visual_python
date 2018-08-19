@@ -77,8 +77,14 @@ iris.columns
 ---
 ##### Exercise 3
 
+---
+##### Summary
+We explored: 
+* Turning data into visual
+* Making that visual engaging and infromative via shapes and colors
+* Documenting outputs for seamless collaboration and sharing
 
 ---?image=src/bg-05.png&size=contain
 ##### Thank you and see you on the next one!
 
----
+
