@@ -16,7 +16,9 @@ Hands on session
 Downoad and install a package manager: [Anaconda](https://www.anaconda.com/download/)
 
 
-<div style='text align: right'> On your terminal do: </div> 
+@snap[west]
+On your terminal do:
+@snapend
 ```
 pip install pandas # real nice data structures
 pip install matplotlib # plotting object
