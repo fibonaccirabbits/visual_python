@@ -10,7 +10,7 @@ Hands on session
 - **Package manager:** a tool that manages packages (programs).
 
 ---
-@snap[west]
+@snap[north-west]
 #### Python and libraries
 
 Downoad and install a package manager: [Anaconda](https://www.anaconda.com/download/)
