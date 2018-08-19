@@ -80,8 +80,8 @@ iris.columns
 ---
 ##### Summary
 We explored: 
-* Turning data into visual
-* Making that visual engaging and infromative via shapes and colors
+* Turning data into a visual object (plot)
+* Making that visual object engaging and infromative via shapes and colors
 * Documenting outputs for seamless collaboration and sharing
 
 ---?image=src/thanks-06.png&size=contain
