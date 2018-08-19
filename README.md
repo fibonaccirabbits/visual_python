@@ -8,6 +8,7 @@
 * Pandas (basic)
 * Matplotlib (basic)
 * Seaborn (basic)
+* Jupyter notebook (basic)
 
 **OS setup**
 
