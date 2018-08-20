@@ -72,16 +72,19 @@ Shape
 ```
 sns.swarmplot(iris.species, iris.petal_length)
 plt.show()
-sns.boxplot(iris.species, iris.petal_length)
+sns.boxenplot(iris.species, iris.petal_length)
 plt.show()
 sns.boxplot(iris.species, iris.petal_length)
 plt.show()
 ```
 ---
-Color
+Color and style
 
 ---
 ##### Exercise 2
+10 minutes
+- Create a file yourname_plots.py with a text editor (Vi, TextEdit, Nano, Notepad)
+- Recreate swarm, boxen, and box plots from the previous slide.
 
 ---
 ##### Collaboration and sharing
