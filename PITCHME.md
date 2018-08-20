@@ -40,7 +40,7 @@ import seaborn as sns
 iris = sns.load_dataset('iris')
 
 # plot the distribution of petal length
-sns.countplot(iris['petal_length'], data=iris)
+sns.scatterplot(iris.species, iris.petal_length)
 plt.show()
 
 ```
@@ -58,8 +58,12 @@ iris.info()
 iris.columns
 
 ```
-- Plot the distribution for each column in the dataset
-- (10 minutes)
+(10 minutes)
+
+- Create a scatter plot for each column in the dataset
+- Load a new dataset: titanic. 
+- Briefly describe the dataset
+- Create a scatter plot for each column in the dataset
 
 ---
 ##### Asthetic: make your plot stands out
