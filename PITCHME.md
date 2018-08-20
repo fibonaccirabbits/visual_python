@@ -77,7 +77,8 @@ plt.show()
 sns.boxplot(iris.species, iris.petal_length)
 plt.show()
 ```
-- Color
+---
+Color
 
 ---
 ##### Exercise 2
