@@ -58,12 +58,13 @@ iris.info()
 iris.columns
 
 ```
-(10 minutes)
-
+10 minutes
+@uol
 - Create a scatter plot for each column in the dataset
 - Load a new dataset: titanic. 
 - Briefly describe the dataset
 - Create a scatter plot for each column in the dataset
+@uolend
 
 ---
 ##### Asthetic: make your plot stands out
