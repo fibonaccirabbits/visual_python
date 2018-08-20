@@ -67,7 +67,8 @@ iris.columns
 ---
 ##### Asthetic: make your plot stands out
 
-####### Shape
+Shape
+
 ```
 sns.swarmplot(iris.species, iris.petal_length)
 plt.show()
