@@ -79,6 +79,10 @@ plt.show()
 ```
 ---
 Color and style
+```
+sns.set(style='ticks')
+plt.swarmplot(iris.species, iris.petal_length)
+```
 
 ---
 ##### Exercise 2
