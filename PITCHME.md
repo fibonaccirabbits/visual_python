@@ -66,8 +66,12 @@ iris.columns
 ---
 ##### Asthetic: make your plot stands out
 
-Shape
+* Shape
+* Style and color
 
+---
+
+* Shape
 ```
 sns.swarmplot(iris.species, iris.petal_length)
 plt.show()
@@ -76,8 +80,9 @@ plt.show()
 sns.boxplot(iris.species, iris.petal_length)
 plt.show()
 ```
+
 ---
-Color and style
+* Color and style
 ```
 #clears the background
 sns.set(style='ticks') 
@@ -94,10 +99,13 @@ plt.savefig('plot_name.png')
 
 ---
 ##### Exercise 2 (10 minutes)
-Interactive programming is a lot of fun but documenting your codes can save a lot of time!
+- Interactive programming is a lot of fun but documenting your codes can save a lot of time!
 - Create a file yourname_plots.py with a text editor (Vi, TextEdit, Nano, Notepad)
 - Recreate swarm, boxen, and box plots from the previous slide.
-
+```
+# run you code
+python yourname_plots.py
+```
 ---
 ##### Collaboration and sharing
 
