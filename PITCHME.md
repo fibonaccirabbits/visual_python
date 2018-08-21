@@ -48,7 +48,7 @@ plt.show()
 - Congrats! You have just created your first plot with Python.
 
 ---
-##### Exercise 1
+##### Exercise 1 (10 minutes)
 
 ```
 # get to know your data
@@ -58,7 +58,6 @@ iris.info()
 iris.columns
 
 ```
-10 minutes
 - Create a scatter plot for each column in the dataset
 - Load a new dataset: titanic 
 - Briefly describe the dataset
@@ -80,13 +79,22 @@ plt.show()
 ---
 Color and style
 ```
-sns.set(style='ticks')
+#clears the background
+sns.set(style='ticks') 
 plt.swarmplot(iris.species, iris.petal_length)
+
+#clears the background and uses other palette
+sns.set(style='ticks', palette='husl') 
+plt.swarmplot(iris.species, iris.petal_length)
+
+#save the plot
+plt.savefig('plot_name.png')
+
 ```
 
 ---
-##### Exercise 2
-10 minutes
+##### Exercise 2 (10 minutes)
+Interactive programming is a lot of fun but documenting your codes can save a lot of time!
 - Create a file yourname_plots.py with a text editor (Vi, TextEdit, Nano, Notepad)
 - Recreate swarm, boxen, and box plots from the previous slide.
 
