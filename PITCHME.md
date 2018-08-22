@@ -125,8 +125,8 @@ jupyter notebook
 
 ---
 ##### Exercise 3 (10 minutes)
-- This time no code examples. Use your previous exercises to solve this exercise.
-- Your mission: Using the titanic dataset, figure out if money helped in saving some people
+This time no code examples. Use your previous experience to solve this exercise.
+- Your mission: Using the titanic dataset, figure out if money increase the chance of survival
 
 
 ---
