@@ -128,6 +128,10 @@ jupyter notebook
 This time no code examples. Use your previous experience to solve this exercise.
 - Your mission: Using the titanic dataset, figure out if money increase the chance of survival
 
+```
+#Hint: run this code to list all kinds of plots in seaborn
+print([item for item in dir(sns) if 'plot' in item])
+```
 
 ---
 ##### Summary
