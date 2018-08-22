@@ -113,7 +113,7 @@ python yourname_plots.py
 ##### Collaboration and sharing
 
 ---
-Sofar the code and its output is separet. Jupyter notebook integrates them so you don't have to!
+Sofar the code and its output are in different places. Jupyter notebook integrates them so you don't have to!
 
 ```
 #start a jupyter notebook
@@ -124,7 +124,9 @@ jupyter notebook
 ```
 
 ---
-##### Exercise 3
+##### Exercise 3 (10 minutes)
+- This time no code examples. Use your previous exercises to solve this exercise.
+- Your mission: Using the titanic dataset, figure out if money helped in saving some people
 
 
 ---
