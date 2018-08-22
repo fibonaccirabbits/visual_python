@@ -12,7 +12,7 @@ Hands on session
 ---
 
 #### Python and libraries
-Downoad and install a package manager: [Anaconda](https://www.anaconda.com/download/)
+Download and install a package manager: [Anaconda](https://www.anaconda.com/download/)
 
 
 
@@ -113,7 +113,7 @@ python yourname_plots.py
 ##### Collaboration and sharing
 
 ---
-Sofar the code and its output are in different places. Jupyter notebook integrates them so you don't have to!
+So far the code and its output are at different places. Jupyter notebook integrates them so you don't have to!
 
 ```
 #start a jupyter notebook
