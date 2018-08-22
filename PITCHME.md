@@ -103,7 +103,7 @@ plt.savefig('plot_name.png')
 ##### Exercise 2 (10 minutes)
 - Interactive programming is a lot of fun but documenting your codes can save a lot of time!
 - Create a file yourname_plots.py with a text editor (Vi, TextEdit, Nano, Notepad)
-- Recreate swarm, boxen, and box plots from the previous slide.
+- Recreate swarm, boxen, and box plots. Save them.
 
 ```
 # run you code
@@ -112,9 +112,20 @@ python yourname_plots.py
 ---
 ##### Collaboration and sharing
 
+---
+Sofar the code and its output is separet. Jupyter notebook integrates them so you don't have to!
+
+```
+#start a jupyter notebook
+jupyter notebook
+
+#bring your code to the notebook
+#run the code with shift + enter
+```
 
 ---
 ##### Exercise 3
+
 
 ---
 ##### Summary
