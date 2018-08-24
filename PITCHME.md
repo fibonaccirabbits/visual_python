@@ -74,10 +74,15 @@ iris.columns
 * Shape
 
 ```
+# plot a swarmplot
 sns.swarmplot(iris.species, iris.petal_length)
 plt.show()
+
+#plot a boxenplot
 sns.boxenplot(iris.species, iris.petal_length)
 plt.show()
+
+#plot a boxplot
 sns.boxplot(iris.species, iris.petal_length)
 plt.show()
 ```
