@@ -21,7 +21,7 @@ That's it! fire up your terminal and let's hit the [**hands on session**](https:
 Once you're done, we'd love to hear your [**feedback**](https://goo.gl/forms/cYTLx15fmxId2mG73).
 
 
-Have fun during the course! 
+Have fun coding! 
 
 **Your SRC team**
 
