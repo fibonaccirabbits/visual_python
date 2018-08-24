@@ -126,6 +126,8 @@ jupyter notebook
 
 #bring your code (recreate yourname_plots.py) to the notebook
 #run the code with shift + enter
+
+#download the notebook and send it to the person sitting next to you
 ```
 
 ---
