@@ -86,11 +86,11 @@ plt.show()
 * Color and style
 
 ```
-#clears the background
+#clear the background
 sns.set(style='ticks') 
 plt.swarmplot(iris.species, iris.petal_length)
 
-#clears the background and uses other palette
+#clear the background and uses other palette
 sns.set(style='ticks', palette='husl') 
 plt.swarmplot(iris.species, iris.petal_length)
 
@@ -138,7 +138,10 @@ print([item for item in dir(sns) if 'plot' in item])
 We explored: 
 * Turning data into a visual object (plot)
 * Making that visual object engaging and infromative via shapes and colors
-* Documenting outputs for seamless collaboration and sharing
+* Documenting codes and outputs for seamless collaboration and sharing
+
+---?image=src/bg-05.png&size=contain
+Share your thoughts: [**feedback**](https://docs.google.com/forms/d/e/1FAIpQLSf3Q05NBO8jELU_6uLeobsRcvbNUBpwPRU3OPivHoukbDZmlQ/viewform)
 
 ---?image=src/thanks-06.png&size=contain
 
