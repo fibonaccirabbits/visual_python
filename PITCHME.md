@@ -126,8 +126,12 @@ So far the code and its output are at different places. Jupyter notebook integra
 #start a jupyter notebook
 jupyter notebook
 
+
+
 #bring your code (recreate yourname_plots.py) to the notebook
 #run the code with shift + enter
+#add on top of your note book
+%matplotlib inline
 
 #download the notebook
 #send it to the person sitting next to you
