@@ -94,10 +94,12 @@ plt.show()
 #clear the background
 sns.set(style='ticks') 
 sns.swarmplot(iris.species, iris.petal_length)
+plt.show()
 
 #clear the background and uses other palette
 sns.set(style='ticks', palette='husl') 
 sns.swarmplot(iris.species, iris.petal_length)
+plt.show()
 
 #save the plot
 plt.savefig('plot_name.png')
