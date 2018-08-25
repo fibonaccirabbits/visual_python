@@ -61,7 +61,7 @@ iris.columns
 - Create a plot for each column in the dataset
 - Load a new dataset: titanic 
 - Briefly describe the dataset
-- Create a scatter plot for each column in the dataset
+- Create a plot for each column in the dataset
 
 ---
 ##### Asthetic: make your plot stands out
