@@ -40,7 +40,7 @@ import seaborn as sns
 iris = sns.load_dataset('iris')
 
 # plot the distribution of petal length
-sns.scatterplot(iris.species, iris.petal_length)
+sns.countplot(iris.species)
 plt.show()
 
 ```
