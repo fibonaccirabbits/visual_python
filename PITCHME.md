@@ -107,7 +107,7 @@ plt.savefig('plot_name.png')
 - Interactive programming is a lot of fun but documenting your codes can save a lot of time!
 - Create a file yourname_plots.py with a text editor (Vi, TextEdit, Nano, Notepad)
 - Recreate swarm, boxen, and box plots. Save them.
-
+- add plt.close() after each plt.save()
 ```
 # run you code
 python yourname_plots.py
