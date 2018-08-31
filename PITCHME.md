@@ -134,9 +134,12 @@ So far the code and its output are at different places. Jupyter notebook integra
 ##### Exercise 3 (10 minutes)
 This time no code examples. Use your previous experience to solve this exercise.
 - Your mission: Using the titanic dataset, figure out if money increase the chance of survival
+- Dataset [titanic.csv]()
 
 ```
-#Hint: run this code to list all kinds of plots in seaborn
+#Hint:
+Run this code to list all kinds of plots in seaborn
+
 print([item for item in dir(sns) if 'plot' in item])
 ```
 
