@@ -119,15 +119,15 @@ python yourname_plots.py
 So far the code and its output are at different places. Jupyter notebook integrates them so you don't have to!
 
 ```
-#start a jupyter notebook
-#bring your code (recreate yourname_plots.py) to the notebook
-#run the code with shift + enter (or by clicking the *run* button)
+start a jupyter notebook
+bring your code (recreate yourname_plots.py) to the notebook
+run the code with shift + enter (or by clicking the *run* button)
 
-#add on top of your notebook if plot doesnt show
+add on top of your notebook if plot doesnt show
 %matplotlib inline
 
-#download the notebook
-#send it to the person sitting next to you
+download the notebook
+send it to the person sitting next to you
 ```
 
 ---
