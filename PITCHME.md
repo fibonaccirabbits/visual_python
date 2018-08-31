@@ -139,7 +139,7 @@ This time no code examples. Use your previous experience to solve this exercise.
 ```
 ##Hint:
 
-#load local dataset
+#load a local dataset
 titanic = pd.read_csv('titanic.csv')
 
 #list all kinds of plots in seaborn
