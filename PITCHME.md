@@ -137,9 +137,12 @@ This time no code examples. Use your previous experience to solve this exercise.
 - Dataset [titanic.csv](https://github.com/fibonaccirabbits/visual_python/tree/master/src)
 
 ```
-#Hint:
-Run this code to list all kinds of plots in seaborn
+##Hint:
 
+#load local dataset
+titanic = pd.read_csv('titanic.csv')
+
+#list all kinds of plots in seaborn
 print([item for item in dir(sns) if 'plot' in item])
 ```
 
