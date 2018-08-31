@@ -134,7 +134,7 @@ So far the code and its output are at different places. Jupyter notebook integra
 ##### Exercise 3 (10 minutes)
 This time no code examples. Use your previous experience to solve this exercise.
 - Your mission: Using the titanic dataset, figure out if money increase the chance of survival
-- Dataset [titanic.csv](https://github.com/fibonaccirabbits/visual_python/tree/master/src)
+- Dataset: [titanic.csv](https://github.com/fibonaccirabbits/visual_python/tree/master/src)
 
 ```
 ##Hint:
